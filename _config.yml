@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Meibao Yao / IRL"
 title_separator          : "-"
 name                     : &name "Meibao Yao"
-description              : &description "personal description"
+description              : &description "Meibao Yao"
 url                      : https://meibaoyao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meibaoyao/meibaoyao.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
